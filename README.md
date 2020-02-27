@@ -15,3 +15,6 @@ CREATE TABLE `spider`.`baidu_baike` (
   `content` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+# 3.run scripts
+
+python3 ./main.py
